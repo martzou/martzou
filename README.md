@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning, and being a part of a creative and wholesome team that enjoys helping newcomers. 
 - 🌱 I’m currently learning HTML, CSS, Javascript, PHP and MySQL. Also, I'm still working on JAVA.
 - 💞️ I’m looking to collaborate on anything related to hands-on projects that will help me in my job-hunting journey.
-- 📫 You can always reach me at www.linkedin.com/in/mariatzouvali  
+- 📫 You can always reach me through my LinkedIn account at www.linkedin.com/in/mariatzouvali  
 
 
 <!---
